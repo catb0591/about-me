@@ -5,4 +5,5 @@ Going to musicals
 watching movies
 Playing Rockband with friends
 Puzzling
-Playing Sudokus
+Playing Sudoku
+
