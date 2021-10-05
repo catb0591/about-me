@@ -5,5 +5,11 @@ Going to musicals
 watching movies
 Playing Rockband with friends
 Puzzling
-Playing Sudoku
+Playing Sudokus
+
+## Profiles
+* [LinkedIn](https://www.linkedin.com/in/catherine-becerra-2299b1198)
+* [GitHub](https://github.com/catb0591)
+
+## Technical Skills
 
